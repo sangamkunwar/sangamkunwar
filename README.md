@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning new programming languages and technologies.
 - 💼 I’m working as a software developer.
 - 💬 Ask me about anything related to Python, JavaScript, and web development.
-- 📫 How to reach me: [Email](mailto:sangamkunwar@example.com)
+- 📫 How to reach me: [Email](mailto:sangamkunwar48@gmail.com)
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sangamkunwar/)
 
 ## 🛠️ Languages and Tools:
